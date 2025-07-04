@@ -1,4 +1,4 @@
-**SUMMER INTERNSHIP PROJECT OVERVIEW**
+**SUMMER INTERNSHIP PROJECT OVERVIEW - NIT TRICHY**
 # 1D Convolution Systolic Array for CNN Acceleration
 
 This project implements and simulates an optimized 1D convolution IP core using systolic array architecture for CNN applications and FPGA implementation.
